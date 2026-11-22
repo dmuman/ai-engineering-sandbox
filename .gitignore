@@ -224,3 +224,4 @@ __marimo__/
 
 # Data storage
 data/
+chroma_db/
